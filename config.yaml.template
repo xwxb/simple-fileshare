@@ -1,0 +1,10 @@
+mysql:
+  host: "localhost"
+  port: 3306
+  username: "root"
+  password:
+  database: "test"
+
+server_port: 8080
+
+JWT_SECRET_KEY: "a261179488102dcf87fa3080d671581e193a40837b"
